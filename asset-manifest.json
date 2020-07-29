@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Dharmin2108.github.io/portfolio/static/css/main.60eec24a.chunk.css",
+    "main.js": "/Dharmin2108.github.io/portfolio/static/js/main.de22a0f7.chunk.js",
+    "main.js.map": "/Dharmin2108.github.io/portfolio/static/js/main.de22a0f7.chunk.js.map",
+    "runtime-main.js": "/Dharmin2108.github.io/portfolio/static/js/runtime-main.7f23a1d1.js",
+    "runtime-main.js.map": "/Dharmin2108.github.io/portfolio/static/js/runtime-main.7f23a1d1.js.map",
+    "static/js/2.0dc2b175.chunk.js": "/Dharmin2108.github.io/portfolio/static/js/2.0dc2b175.chunk.js",
+    "static/js/2.0dc2b175.chunk.js.map": "/Dharmin2108.github.io/portfolio/static/js/2.0dc2b175.chunk.js.map",
+    "index.html": "/Dharmin2108.github.io/portfolio/index.html",
+    "precache-manifest.921465288f4982dcce1543c088cb9a72.js": "/Dharmin2108.github.io/portfolio/precache-manifest.921465288f4982dcce1543c088cb9a72.js",
+    "service-worker.js": "/Dharmin2108.github.io/portfolio/service-worker.js",
+    "static/css/main.60eec24a.chunk.css.map": "/Dharmin2108.github.io/portfolio/static/css/main.60eec24a.chunk.css.map",
+    "static/js/2.0dc2b175.chunk.js.LICENSE.txt": "/Dharmin2108.github.io/portfolio/static/js/2.0dc2b175.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Dharmin2108.github.io/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMail.webp": "/Dharmin2108.github.io/portfolio/static/media/contactMail.68e84138.webp",
+    "static/media/developerActivity.svg": "/Dharmin2108.github.io/portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/fth.png": "/Dharmin2108.github.io/portfolio/static/media/fth.24c4960e.png",
+    "static/media/logo.svg": "/Dharmin2108.github.io/portfolio/static/media/logo.5d5d9eef.svg",
+    "static/media/manOnTable.svg": "/Dharmin2108.github.io/portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/Dharmin2108.github.io/portfolio/static/media/skill.34409398.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f23a1d1.js",
+    "static/js/2.0dc2b175.chunk.js",
+    "static/css/main.60eec24a.chunk.css",
+    "static/js/main.de22a0f7.chunk.js"
+  ]
+}
